@@ -1,11 +1,15 @@
 # Major-Project
 Classification of Mice Based on Protein Expression Levels
+
+
+
 Problem Statement: The objective is to identify subsets of proteins that are discriminant
 between different classes of mice. The dataset includes protein
 expression levels in the cerebral cortex of both control and Down
 syndrome mice subjected to context fear conditioning. The aim is to
 classify the mice into eight distinct classes based on genotype,
 behavior, and treatment.
+
 
 Steps Involved:
 Data Preprocessing: Handle missing values. Normalize/scale the data. Encode categorical
@@ -22,6 +26,10 @@ Interpretation: Analyze the model to identify key discriminant proteins. Interpr
 the biological context.
 Reporting and Analysis: Summary of key findings and their implications. Limitations of the
 study. Recommendations for future research.
+
+
+
+
 
 Conclusion:
 Conclusion
