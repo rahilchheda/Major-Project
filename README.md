@@ -32,20 +32,23 @@ study. Recommendations for future research.
 
 
 Conclusion:
-Conclusion
 Accurate Classification: The developed machine learning model successfully classified mice into one of
 eight classes based on the expression levels of 77 proteins, with high accuracy and reliability. This
 demonstrates the model's effectiveness in distinguishing between different combinations of genotype,
 behavior, and treatment.
+
 Key discriminant proteins identified: Feature selection add specific proteins and protein modifications
 that are crucial for distinguishing between the classes. These key discriminant proteins provide valuable
 insights into the biological mechanisms underlying learning and memory. Particularly in the context of
 Down syndrome.
+
 Impact analysis of Geno-type, Behavior and Treatment: The analysis revealed significant effects of
 genotype (Control vs Trisomic), behavior (Context-shock vs Shock-context) and treatment (Saline vs
 Memantine) On protein expression levels. This evaluation offers a deep understanding of how these
 factors are Associative learning and the potential therapeutic benefits of memantine and trisomic mice.
+
 Model used: After comparison of four different models through accuracy score, F score and recall, we
 selected random forest classifier.
+
 The top five proteins acquired from analysis: 1. CaNA_N , 2. pPKCG_N , 3. Ubiquitin_N , 4. ARC_N , 5.
 Tau_N
